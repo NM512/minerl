@@ -9,7 +9,7 @@ and therefore comes with abstract crafting and smelting actions.
   the brightness in `options.txt`.
 - Modified defaults in `options.txt` to remove visual artifacts during
   sprinting, reduce visual effects and simulation distance, and increase the
-  brightness to 5.0 used for official speed runs.
+  brightness to 5.0 as used for official speed runs.
 
 ## Useful files
 

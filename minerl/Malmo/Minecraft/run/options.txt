@@ -2,9 +2,11 @@ version:922
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.5
-gamma:2.0
+fovEffectScale:0.0
+gamma:5.0
 saturation:0.0
-renderDistance:4
+renderDistance:6
+simulationDistance:6
 guiScale:0
 particles:2
 bobView:false
@@ -13,7 +15,7 @@ maxFps:-1
 fboEnable:true
 difficulty:3
 fancyGraphics:false
-ao:2
+ao:1
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
